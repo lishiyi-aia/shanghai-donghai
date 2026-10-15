@@ -4,7 +4,7 @@
 
 独立复制自 https://lishiyi-aia.github.io/market-trainee-finetoday/ ，沿用版式、3D人物和项目交互，原网站不作修改。
 
-新站：https://lishiyi-aia.github.io/shanghai-donghai-marine-market-specialist/
+新站：https://lishiyi-aia.github.io/shanghai-donghai/
 
 履历以2026年10月15日用户提供的最终简历截图为准，保留五段教育/实习时间轴与六项综合评价。三个项目分别对应简历中的三段实习：
 
